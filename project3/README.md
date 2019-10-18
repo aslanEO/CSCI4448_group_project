@@ -104,9 +104,6 @@
 		  will be removed, therefore the number customer list will
 		  be 0;
 
-	6.6.6 Total income was tested;
-
-	6.6.7 The maximum number of tools that customer can rent was tested;
 
 
 
