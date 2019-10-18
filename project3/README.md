@@ -85,7 +85,7 @@
 
 6.6  MyUnitTest 
 	
-	6.6.1 There are 12 JUnit tests in MyUnitTest;
+	6.6.1 There are 10 JUnit tests in MyUnitTest;
 
 	6.6.2 assertEquals, assertTrue, and assertFalse was use
 
