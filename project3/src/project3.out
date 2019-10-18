@@ -1,0 +1,152 @@
+==================
+JUnit tests:
+==================
+JUnit test 1: 
+... Testing the cost of a plumbing tool for 1 night ... 
+Congratulations!!! Test passed.
+
+JUnit test 2: 
+... Testing the cost of a yardwork tool for 2 nights ... 
+Congratulations!!! Test passed.
+
+JUnit test 3: 
+... Testing the cost of a painting tool with 1 accessory option for 1 night ... 
+Congratulations!!! Test passed.
+
+JUnit test 4: 
+... Testing the cost of a concrete tool with 2 extension options for 2 nights ... 
+Congratulations!!! Test passed.
+
+JUnit test 5: 
+... Testing the cost of a woodwork tool with 1 protective option and 1 accessory option for 5 nights ... 
+Congratulations!!! Test passed.
+
+JUnit test 6: 
+... Testing the cost of a tool when some unknown options are specified for 1 night ... 
+Congratulations!!! Test passed.
+
+JUnit test 7: 
+... Testing the observer pattern, specifically change in the number of customers in the customer list ... 
+  ---> original length of the customer list
+Congratulations!!! Test passed.
+  ---> Removing business customers ... 
+Congratulations!!! Test passed.
+  ---> Removing casual and regular customers ... 
+Congratulations!!! Test passed.
+  ---> Adding casual and regular customers ... 
+Congratulations!!! Test passed.
+  ---> Adding business customers ... 
+Congratulations!!! Test passed.
+
+JUnit test 8: 
+... Testing the observer pattern, specifically whether the right type of customer gets added or removed ... 
+  ---> Removing business customers ... 
+Congratulations!!! Test passed.
+  ---> Adding casual customers ... 
+Congratulations!!! Test passed.
+  ---> Adding regular customers ... 
+Congratulations!!! Test passed.
+  ---> Adding casual customers ... 
+Congratulations!!! Test passed.
+  ---> Adding regular customers ... 
+Congratulations!!! Test passed.
+  ---> Adding business customers ... 
+Congratulations!!! Test passed.
+  ---> Adding casual customers ... 
+Congratulations!!! Test passed.
+  ---> Adding regular customers ... 
+Congratulations!!! Test passed.
+  ---> Adding business customers ... 
+Congratulations!!! Test passed.
+
+JUnit test 9: 
+... Test the constriction on the number of tools each type of customer can rent ... 
+  ---> testing casual customers ... 
+Congratulations!!! Test passed.
+  ---> testing business customers ... 
+Congratulations!!! Test passed.
+  ---> testing regular customers ... 
+Congratulations!!! Test passed.
+
+JUnit test 10: 
+... Test the constriction on the number of nights each type of customer can rent tools for ... 
+  ---> testing casual customers ... 
+Congratulations!!! Test passed.
+  ---> testing business customers ... 
+Congratulations!!! Test passed.
+  ---> testing regular customers ... 
+Congratulations!!! Test passed.
+
+JUnit test 11: 
+... Test the total income of 35-day simulation ... 
++++++++++0.0
+Congratulations!!! Test passed.
+
+JUnit test 12: 
+... Test the number of tools each customer has in hand ... 
+[customers.CustomerBusiness@2f92e0f4, customers.CustomerBusiness@28a418fc, customers.CustomerBusiness@5305068a, customers.CustomerBusiness@1f32e575, customers.CustomerCasual@279f2327, customers.CustomerCasual@2ff4acd0, customers.CustomerCasual@54bedef2, customers.CustomerCasual@5caf905d, customers.CustomerCasual@27716f4, customers.CustomerCasual@8efb846, customers.CustomerRegular@2a84aee7, customers.CustomerRegular@a09ee92]
+  ---> testing customer7
+Congratulations!!! Test passed.
+  ---> testing customer8
+Congratulations!!! Test passed.
+  ---> testing customer9
+Congratulations!!! Test passed.
+  ---> testing customer10
+Congratulations!!! Test passed.
+  ---> testing customer1
+Congratulations!!! Test passed.
+  ---> testing customer2
+Congratulations!!! Test passed.
+  ---> testing customer3
+Congratulations!!! Test passed.
+  ---> testing customer4
+Congratulations!!! Test passed.
+  ---> testing customer5
+Congratulations!!! Test passed.
+  ---> testing customer6
+Congratulations!!! Test passed.
+  ---> testing customer11
+Congratulations!!! Test passed.
+  ---> testing customer12
+Congratulations!!! Test passed.
+
+==================
+Store Simulation:
+==================
+Day: 1
+
+-> All complete rentals:
+	 Count: 0
+	 There is no complete rental now.
+-> All active rentals:
+	 Count: 12
+	 customer4: [woodwork2]
+	 customer10: [plumbing1, concrete5, yardwork4]
+	 customer2: [concrete4]
+	 customer1: [painting5]
+	 customer8: [plumbing5, painting2, painting1]
+	 customer5: [plumbing2, concrete1]
+	 customer9: [concrete2, woodwork5, woodwork4]
+	 customer11: [plumbing3]
+	 customer12: [yardwork2]
+	 customer7: [painting3, plumbing4, painting4]
+	 customer6: [woodwork3]
+	 customer3: [yardwork1]
+-> Tool Inventory at the end of the day:
+	 Count: 3
+	 Tool list: [tools.ConcreteTool@30f39991, tools.WoodworkTool@452b3a41, tools.YardworkTool@4a574795]
+	 Tool names: [concrete3, woodwork1, yardwork3]
+-> Customer Repository at the end of the day:
+	 Count: 8
+	 Customer list: [customers.CustomerCasual@f6f4d33, customers.CustomerCasual@23fc625e, customers.CustomerCasual@3f99bd52, customers.CustomerCasual@4f023edb, customers.CustomerRegular@3a71f4dd, customers.CustomerRegular@7adf9f5f, customers.CustomerCasual@85ede7b, customers.CustomerCasual@5674cd4d]
+-> Daily Income: 
+	2164.0
+
+------------------------------------------------------------------
+
+Total number of completed rentals-Overall: 0
+      Total number of completed rentals-of CASUAL CUSTOMERS: 0
+      Total number of completed rentals-of BUSINESS CUSTOMERS: 0
+      Total number of completed rentals-of REGULAR CUSTOMERS: 0
+
+Total income for 1 days: 2164.0
