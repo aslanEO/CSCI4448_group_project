@@ -72,7 +72,7 @@
 	6.5.5 The price of tools and options:
 	
 
-| Price/tool    | Accessory kit | Extension cord | Protective Gear  |
+| tool\Tool     | Accessory kit | Extension cord | Protective Gear  |
 | ------------- |:-------------:|:-------------: | ----------------:| 
 | Painting-20   | 3             | 5              | 6                |
 | Pluming -10   | 2             | 3              | 2                |
