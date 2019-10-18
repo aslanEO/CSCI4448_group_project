@@ -72,12 +72,13 @@
 	6.5.5 The price of tools and options:
 	
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
+| Price/tool    | Accessory kit | Extension cord | Protective Gear  |
+| ------------- |:-------------:|:-------------: | ----------------:| 
+| Painting-20   | 3             | 5              | 6                |
+| Pluming -10   | 2             | 3              | 2                |
+| Concrete-25   | 4             | 4              | 5                |
+| Woodwork-30   | 5             | 10             | 10               |
+| Yardwork-15   | 6             | 8              | 3                |
 
 
 									 option price
