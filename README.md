@@ -38,7 +38,7 @@
 
 		  
 
-6.4 *************************** customers ***************************
+6.4  customers 
 
 	6.4.1 Twelve customers were created: 6 of them are Casual type,
 		  4 of them are Business type, rest of them are Regular type;
