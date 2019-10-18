@@ -70,6 +70,11 @@
 	6.5.4 When adding options to tools, use Decorator pattern to add;
 
 	6.5.5 The price of tools and options:
+	
+	| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 									 option price
 					Accessory kit	Extension cord	  Protective Gear			
