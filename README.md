@@ -18,7 +18,7 @@
 
 
 
-6.3 ***************************** store *****************************
+6.3  store 
 
 	6.3.1 Main.java is in store package, it implements MyUnitTest
 		  first, then implements the StoreSimulation;
@@ -55,7 +55,7 @@
 
 
 
-6.5 ***************************** tools *****************************
+6.5  tools 
 
 	6.5.1 Different type of tools are created through Factory Pattern;
 
@@ -87,7 +87,7 @@
 
 
 
-6.6 *************************** MyUnitTest ***************************
+6.6  MyUnitTest 
 	
 	6.6.1 There are 12 JUnit tests in MyUnitTest;
 
