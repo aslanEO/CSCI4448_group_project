@@ -72,7 +72,7 @@
 	6.5.5 The price of tools and options:
 	
 
-| Price/tool    | Accessory kit | Extension cord | Protective Gear  |
+| tool-price    | Accessory kit | Extension cord | Protective Gear  |
 | ------------- |:-------------:|:-------------: | ----------------:| 
 | Painting-20   | 3             | 5              | 6                |
 | Pluming -10   | 2             | 3              | 2                |
@@ -80,15 +80,6 @@
 | Woodwork-30   | 5             | 10             | 10               |
 | Yardwork-15   | 6             | 8              | 3                |
 
-
-									 option price
-					Accessory kit	Extension cord	  Protective Gear			
-	  Price/tool 		
-	  Painting-20		3					5				6
-	  Pluming -10		2					3				2
-	  Concrete-25		4					4				5
-	  Woodwork-30		5					10				10
-	  Yardwork-15		6					8				3
 
 
 
