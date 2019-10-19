@@ -9,7 +9,7 @@ import customers.Customer;
 import javafx.util.Pair;
 import tools.Tool;
 
-class StoreSimulation {
+public class StoreSimulation {
 
 	private double totalIncome = 0.00;
 	private int businessComplete = 0;
