@@ -14,7 +14,7 @@ We used java version "1.8.0_92" and Junit5 library for JUnit test.
 
 ## Output file
 
-The output is in file: project3.out.
+The output is in file: project3.out.txt.
 
 ## PDF file
 
