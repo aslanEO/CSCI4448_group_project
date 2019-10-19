@@ -5,6 +5,7 @@
 3. Team Members: Yiou Gao, Ling Liu, Ji Zhao
 
 4. Our code is developed and tested on Eclipse and IntelliJ IDEA;
+   We used Junit5 library for JUnit test.
 
 5. The output is in file: project3.out;
 
