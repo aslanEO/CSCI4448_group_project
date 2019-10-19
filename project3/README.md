@@ -16,6 +16,12 @@ We used java version "1.8.0_92" and Junit5 library for JUnit test.
 
 The output is in file: project3.out.
 
+## PDF file
+
+OOAD_Project3.pdf is the complete version of the required PDF file.
+
+project3_UML_class_diagram.pdf is an extra copy of the UML class diagram attached at the end of the complete PDF file. It is provided for your convenience.
+
 ## Descriptions
 
 - The code has 4 packages: store, customers, tools, and tests;
