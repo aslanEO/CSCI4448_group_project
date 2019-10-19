@@ -1,8 +1,10 @@
-1. 4448/5448 --- OOAD ---- Project 3
+# 4448/5448 --- OOAD ---- Project 3
 
-2. Date: 10/18/2019
+## Date: 10/18/2019
 
-3. Team Members: Yiou Gao, Ling Liu, Ji Zhao
+## Team Members: 
+
+Yiou Gao, Ling Liu, Ji Zhao
 
 4. Our code is developed and tested on Eclipse and IntelliJ IDEA;
    We used Junit5 library for JUnit test.
