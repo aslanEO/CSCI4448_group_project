@@ -100,9 +100,6 @@ Day: 1
 	 Count: 11
 	 Tool list: [tools.PaintingTool@2f92e0f4, tools.PlumbingTool@28a418fc, tools.PlumbingTool@5305068a, tools.ConcreteTool@1f32e575, tools.ConcreteTool@279f2327, tools.ConcreteTool@2ff4acd0, tools.WoodworkTool@54bedef2, tools.WoodworkTool@5caf905d, tools.WoodworkTool@27716f4, tools.YardworkTool@8efb846, tools.YardworkTool@2a84aee7]
 	 Tool names: [painting5, plumbing3, plumbing5, concrete1, concrete2, concrete3, woodwork1, woodwork2, woodwork5, yardwork2, yardwork3]
--> Customer Repository at the end of the day:
-	 Count: 10
-	 Customer list: [customers.CustomerBusiness@a09ee92, customers.CustomerBusiness@30f39991, customers.CustomerCasual@452b3a41, customers.CustomerRegular@4a574795, customers.CustomerRegular@f6f4d33, customers.CustomerCasual@23fc625e, customers.CustomerCasual@3f99bd52, customers.CustomerCasual@4f023edb, customers.CustomerCasual@3a71f4dd, customers.CustomerCasual@7adf9f5f]
 -> Daily Income: 1148.0
 
 ------------------------------------------------------------------
@@ -123,9 +120,6 @@ Day: 2
 	 Count: 15
 	 Tool list: [tools.PaintingTool@2f92e0f4, tools.PlumbingTool@28a418fc, tools.PlumbingTool@5305068a, tools.ConcreteTool@1f32e575, tools.ConcreteTool@279f2327, tools.ConcreteTool@2ff4acd0, tools.WoodworkTool@54bedef2, tools.WoodworkTool@5caf905d, tools.WoodworkTool@27716f4, tools.YardworkTool@8efb846, tools.YardworkTool@2a84aee7, tools.PlumbingTool@85ede7b, tools.ConcreteTool@5674cd4d, tools.YardworkTool@63961c42, tools.WoodworkTool@65b54208]
 	 Tool names: [painting5, plumbing3, plumbing5, concrete1, concrete2, concrete3, woodwork1, woodwork2, woodwork5, yardwork2, yardwork3, plumbing2, concrete4, yardwork1, woodwork4]
--> Customer Repository at the end of the day:
-	 Count: 10
-	 Customer list: [customers.CustomerBusiness@a09ee92, customers.CustomerBusiness@30f39991, customers.CustomerCasual@452b3a41, customers.CustomerRegular@4a574795, customers.CustomerRegular@f6f4d33, customers.CustomerCasual@23fc625e, customers.CustomerCasual@3f99bd52, customers.CustomerCasual@4f023edb, customers.CustomerCasual@3a71f4dd, customers.CustomerCasual@7adf9f5f]
 -> Daily Income: 0.0
 
 ------------------------------------------------------------------
@@ -151,9 +145,6 @@ Day: 3
 	 Count: 10
 	 Tool list: [tools.PaintingTool@2f92e0f4, tools.PlumbingTool@28a418fc, tools.ConcreteTool@1f32e575, tools.ConcreteTool@279f2327, tools.WoodworkTool@27716f4, tools.YardworkTool@8efb846, tools.YardworkTool@2a84aee7, tools.PlumbingTool@85ede7b, tools.PaintingTool@1be6f5c3, tools.PaintingTool@6b884d57]
 	 Tool names: [painting5, plumbing3, concrete1, concrete2, woodwork5, yardwork2, yardwork3, plumbing2, painting2, painting1]
--> Customer Repository at the end of the day:
-	 Count: 9
-	 Customer list: [customers.CustomerBusiness@a09ee92, customers.CustomerCasual@452b3a41, customers.CustomerCasual@23fc625e, customers.CustomerCasual@3f99bd52, customers.CustomerCasual@3a71f4dd, customers.CustomerRegular@4a574795, customers.CustomerRegular@f6f4d33, customers.CustomerCasual@7adf9f5f, customers.CustomerCasual@4f023edb]
 -> Daily Income: 934.0
 
 ------------------------------------------------------------------
@@ -181,9 +172,6 @@ Day: 4
 	 Count: 8
 	 Tool list: [tools.PaintingTool@2f92e0f4, tools.PlumbingTool@28a418fc, tools.ConcreteTool@1f32e575, tools.ConcreteTool@279f2327, tools.YardworkTool@8efb846, tools.PlumbingTool@85ede7b, tools.PaintingTool@1be6f5c3, tools.PaintingTool@6b884d57]
 	 Tool names: [painting5, plumbing3, concrete1, concrete2, yardwork2, plumbing2, painting2, painting1]
--> Customer Repository at the end of the day:
-	 Count: 8
-	 Customer list: [customers.CustomerBusiness@a09ee92, customers.CustomerCasual@452b3a41, customers.CustomerCasual@23fc625e, customers.CustomerCasual@3a71f4dd, customers.CustomerRegular@f6f4d33, customers.CustomerCasual@7adf9f5f, customers.CustomerCasual@4f023edb, customers.CustomerCasual@3f99bd52]
 -> Daily Income: 130.0
 
 ------------------------------------------------------------------
@@ -213,9 +201,6 @@ Day: 5
 	 Count: 7
 	 Tool list: [tools.PaintingTool@2f92e0f4, tools.PlumbingTool@28a418fc, tools.YardworkTool@8efb846, tools.PlumbingTool@85ede7b, tools.PaintingTool@1be6f5c3, tools.ConcreteTool@38af3868, tools.WoodworkTool@77459877]
 	 Tool names: [painting5, plumbing3, yardwork2, plumbing2, painting2, concrete3, woodwork4]
--> Customer Repository at the end of the day:
-	 Count: 7
-	 Customer list: [customers.CustomerBusiness@a09ee92, customers.CustomerCasual@452b3a41, customers.CustomerCasual@3a71f4dd, customers.CustomerCasual@7adf9f5f, customers.CustomerCasual@4f023edb, customers.CustomerCasual@3f99bd52, customers.CustomerCasual@23fc625e]
 -> Daily Income: 242.0
 
 ------------------------------------------------------------------
@@ -249,9 +234,6 @@ Day: 6
 	 Count: 2
 	 Tool list: [tools.PlumbingTool@28a418fc, tools.YardworkTool@5b2133b1]
 	 Tool names: [plumbing3, yardwork1]
--> Customer Repository at the end of the day:
-	 Count: 7
-	 Customer list: [customers.CustomerCasual@7adf9f5f, customers.CustomerCasual@23fc625e, customers.CustomerRegular@f6f4d33, customers.CustomerCasual@4f023edb, customers.CustomerCasual@3f99bd52, customers.CustomerCasual@3a71f4dd, customers.CustomerCasual@452b3a41]
 -> Daily Income: 313.0
 
 ------------------------------------------------------------------
@@ -290,9 +272,6 @@ Day: 7
 	 Count: 0
 	 Tool list: []
 	 Tool names: []
--> Customer Repository at the end of the day:
-	 Count: 2
-	 Customer list: [customers.CustomerCasual@23fc625e, customers.CustomerCasual@7adf9f5f]
 -> Daily Income: 540.0
 
 ------------------------------------------------------------------
@@ -335,9 +314,6 @@ Day: 8
 	 Count: 7
 	 Tool list: [tools.PaintingTool@72ea2f77, tools.WoodworkTool@33c7353a, tools.ConcreteTool@681a9515, tools.PlumbingTool@3af49f1c, tools.WoodworkTool@19469ea2, tools.WoodworkTool@13221655, tools.PaintingTool@2f2c9b19]
 	 Tool names: [painting3, woodwork3, concrete5, plumbing2, woodwork4, woodwork5, painting2]
--> Customer Repository at the end of the day:
-	 Count: 6
-	 Customer list: [customers.CustomerCasual@7adf9f5f, customers.CustomerBusiness@31befd9f, customers.CustomerBusiness@1c20c684, customers.CustomerBusiness@30f39991, customers.CustomerCasual@3f99bd52, customers.CustomerCasual@23fc625e]
 -> Daily Income: 512.0
 
 ------------------------------------------------------------------
@@ -384,9 +360,6 @@ Day: 9
 	 Count: 5
 	 Tool list: [tools.PaintingTool@72ea2f77, tools.ConcreteTool@681a9515, tools.WoodworkTool@13221655, tools.PaintingTool@1fb3ebeb, tools.PaintingTool@548c4f57]
 	 Tool names: [painting3, concrete5, woodwork5, painting1, painting4]
--> Customer Repository at the end of the day:
-	 Count: 4
-	 Customer list: [customers.CustomerCasual@7adf9f5f, customers.CustomerBusiness@1c20c684, customers.CustomerBusiness@30f39991, customers.CustomerCasual@23fc625e]
 -> Daily Income: 711.0
 
 ------------------------------------------------------------------
@@ -434,9 +407,6 @@ Day: 10
 	 Count: 12
 	 Tool list: [tools.PaintingTool@72ea2f77, tools.ConcreteTool@681a9515, tools.WoodworkTool@13221655, tools.PaintingTool@548c4f57, tools.YardworkTool@1218025c, tools.ConcreteTool@816f27d, tools.WoodworkTool@87aac27, tools.YardworkTool@3e3abc88, tools.YardworkTool@6ce253f1, tools.PlumbingTool@53d8d10a, tools.PlumbingTool@e9e54c2, tools.PaintingTool@65ab7765]
 	 Tool names: [painting3, concrete5, woodwork5, painting4, yardwork4, concrete4, woodwork1, yardwork2, yardwork1, plumbing1, plumbing2, painting2]
--> Customer Repository at the end of the day:
-	 Count: 6
-	 Customer list: [customers.CustomerBusiness@1c20c684, customers.CustomerBusiness@30f39991, customers.CustomerCasual@23fc625e, customers.CustomerCasual@3f99bd52, customers.CustomerCasual@3a71f4dd, customers.CustomerCasual@7adf9f5f]
 -> Daily Income: 43.0
 
 ------------------------------------------------------------------
@@ -486,9 +456,6 @@ Day: 11
 	 Count: 9
 	 Tool list: [tools.ConcreteTool@681a9515, tools.WoodworkTool@13221655, tools.ConcreteTool@816f27d, tools.WoodworkTool@87aac27, tools.YardworkTool@6ce253f1, tools.PlumbingTool@53d8d10a, tools.PaintingTool@65ab7765, tools.PaintingTool@1b28cdfa, tools.ConcreteTool@eed1f14]
 	 Tool names: [concrete5, woodwork5, concrete4, woodwork1, yardwork1, plumbing1, painting2, painting5, concrete1]
--> Customer Repository at the end of the day:
-	 Count: 5
-	 Customer list: [customers.CustomerBusiness@30f39991, customers.CustomerCasual@3f99bd52, customers.CustomerCasual@3a71f4dd, customers.CustomerCasual@7adf9f5f, customers.CustomerCasual@23fc625e]
 -> Daily Income: 503.0
 
 ------------------------------------------------------------------
@@ -538,9 +505,6 @@ Day: 12
 	 Count: 13
 	 Tool list: [tools.ConcreteTool@681a9515, tools.WoodworkTool@13221655, tools.ConcreteTool@816f27d, tools.WoodworkTool@87aac27, tools.YardworkTool@6ce253f1, tools.PlumbingTool@53d8d10a, tools.PaintingTool@65ab7765, tools.PaintingTool@1b28cdfa, tools.ConcreteTool@eed1f14, tools.ConcreteTool@7229724f, tools.WoodworkTool@4c873330, tools.YardworkTool@119d7047, tools.PaintingTool@776ec8df]
 	 Tool names: [concrete5, woodwork5, concrete4, woodwork1, yardwork1, plumbing1, painting2, painting5, concrete1, concrete2, woodwork2, yardwork3, painting1]
--> Customer Repository at the end of the day:
-	 Count: 5
-	 Customer list: [customers.CustomerBusiness@30f39991, customers.CustomerCasual@3f99bd52, customers.CustomerCasual@3a71f4dd, customers.CustomerCasual@7adf9f5f, customers.CustomerCasual@23fc625e]
 -> Daily Income: 0.0
 
 ------------------------------------------------------------------
@@ -594,9 +558,6 @@ Day: 13
 	 Count: 6
 	 Tool list: [tools.ConcreteTool@681a9515, tools.PaintingTool@65ab7765, tools.PaintingTool@1b28cdfa, tools.WoodworkTool@4c873330, tools.PaintingTool@776ec8df, tools.YardworkTool@4eec7777]
 	 Tool names: [concrete5, painting2, painting5, woodwork2, painting1, yardwork2]
--> Customer Repository at the end of the day:
-	 Count: 4
-	 Customer list: [customers.CustomerCasual@3f99bd52, customers.CustomerCasual@3a71f4dd, customers.CustomerCasual@23fc625e, customers.CustomerCasual@7adf9f5f]
 -> Daily Income: 674.0
 
 ------------------------------------------------------------------
@@ -651,9 +612,6 @@ Day: 14
 	 Count: 10
 	 Tool list: [tools.ConcreteTool@681a9515, tools.PaintingTool@65ab7765, tools.PaintingTool@1b28cdfa, tools.WoodworkTool@4c873330, tools.YardworkTool@4eec7777, tools.YardworkTool@3b07d329, tools.ConcreteTool@41629346, tools.PlumbingTool@404b9385, tools.ConcreteTool@6d311334, tools.YardworkTool@682a0b20]
 	 Tool names: [concrete5, painting2, painting5, woodwork2, yardwork2, yardwork1, concrete1, plumbing1, concrete2, yardwork3]
--> Customer Repository at the end of the day:
-	 Count: 8
-	 Customer list: [customers.CustomerCasual@3f99bd52, customers.CustomerCasual@3a71f4dd, customers.CustomerCasual@7adf9f5f, customers.CustomerBusiness@31befd9f, customers.CustomerBusiness@a09ee92, customers.CustomerBusiness@1c20c684, customers.CustomerBusiness@30f39991, customers.CustomerCasual@23fc625e]
 -> Daily Income: 81.0
 
 ------------------------------------------------------------------
@@ -709,9 +667,6 @@ Day: 15
 	 Count: 14
 	 Tool list: [tools.ConcreteTool@681a9515, tools.PaintingTool@65ab7765, tools.PaintingTool@1b28cdfa, tools.WoodworkTool@4c873330, tools.YardworkTool@4eec7777, tools.ConcreteTool@41629346, tools.PlumbingTool@404b9385, tools.ConcreteTool@6d311334, tools.YardworkTool@682a0b20, tools.PlumbingTool@3d075dc0, tools.ConcreteTool@214c265e, tools.PlumbingTool@448139f0, tools.WoodworkTool@7cca494b, tools.PaintingTool@7ba4f24f]
 	 Tool names: [concrete5, painting2, painting5, woodwork2, yardwork2, concrete1, plumbing1, concrete2, yardwork3, plumbing5, concrete3, plumbing4, woodwork5, painting1]
--> Customer Repository at the end of the day:
-	 Count: 8
-	 Customer list: [customers.CustomerCasual@3f99bd52, customers.CustomerCasual@3a71f4dd, customers.CustomerBusiness@31befd9f, customers.CustomerBusiness@a09ee92, customers.CustomerBusiness@1c20c684, customers.CustomerBusiness@30f39991, customers.CustomerCasual@23fc625e, customers.CustomerCasual@7adf9f5f]
 -> Daily Income: 21.0
 
 ------------------------------------------------------------------
@@ -768,9 +723,6 @@ Day: 16
 	 Count: 16
 	 Tool list: [tools.ConcreteTool@681a9515, tools.PaintingTool@65ab7765, tools.PaintingTool@1b28cdfa, tools.WoodworkTool@4c873330, tools.YardworkTool@4eec7777, tools.ConcreteTool@41629346, tools.PlumbingTool@404b9385, tools.ConcreteTool@6d311334, tools.YardworkTool@682a0b20, tools.PlumbingTool@3d075dc0, tools.PlumbingTool@448139f0, tools.WoodworkTool@7cca494b, tools.PaintingTool@7ba4f24f, tools.WoodworkTool@3b9a45b3, tools.PlumbingTool@7699a589, tools.YardworkTool@58372a00]
 	 Tool names: [concrete5, painting2, painting5, woodwork2, yardwork2, concrete1, plumbing1, concrete2, yardwork3, plumbing5, plumbing4, woodwork5, painting1, woodwork4, plumbing3, yardwork1]
--> Customer Repository at the end of the day:
-	 Count: 8
-	 Customer list: [customers.CustomerCasual@3f99bd52, customers.CustomerCasual@3a71f4dd, customers.CustomerBusiness@31befd9f, customers.CustomerBusiness@a09ee92, customers.CustomerBusiness@1c20c684, customers.CustomerBusiness@30f39991, customers.CustomerCasual@23fc625e, customers.CustomerCasual@7adf9f5f]
 -> Daily Income: 103.0
 
 ------------------------------------------------------------------
@@ -827,9 +779,6 @@ Day: 17
 	 Count: 18
 	 Tool list: [tools.ConcreteTool@681a9515, tools.PaintingTool@65ab7765, tools.PaintingTool@1b28cdfa, tools.WoodworkTool@4c873330, tools.YardworkTool@4eec7777, tools.ConcreteTool@41629346, tools.PlumbingTool@404b9385, tools.ConcreteTool@6d311334, tools.YardworkTool@682a0b20, tools.PlumbingTool@3d075dc0, tools.PlumbingTool@448139f0, tools.WoodworkTool@7cca494b, tools.PaintingTool@7ba4f24f, tools.WoodworkTool@3b9a45b3, tools.PlumbingTool@7699a589, tools.YardworkTool@58372a00, tools.WoodworkTool@4dd8dc3, tools.ConcreteTool@6d03e736]
 	 Tool names: [concrete5, painting2, painting5, woodwork2, yardwork2, concrete1, plumbing1, concrete2, yardwork3, plumbing5, plumbing4, woodwork5, painting1, woodwork4, plumbing3, yardwork1, woodwork3, concrete3]
--> Customer Repository at the end of the day:
-	 Count: 8
-	 Customer list: [customers.CustomerCasual@3f99bd52, customers.CustomerCasual@3a71f4dd, customers.CustomerBusiness@31befd9f, customers.CustomerBusiness@a09ee92, customers.CustomerBusiness@1c20c684, customers.CustomerBusiness@30f39991, customers.CustomerCasual@23fc625e, customers.CustomerCasual@7adf9f5f]
 -> Daily Income: 0.0
 
 ------------------------------------------------------------------
@@ -891,9 +840,6 @@ Day: 18
 	 Count: 12
 	 Tool list: [tools.ConcreteTool@681a9515, tools.ConcreteTool@41629346, tools.ConcreteTool@6d311334, tools.PlumbingTool@3d075dc0, tools.PlumbingTool@448139f0, tools.WoodworkTool@7cca494b, tools.WoodworkTool@3b9a45b3, tools.PlumbingTool@7699a589, tools.YardworkTool@58372a00, tools.WoodworkTool@4dd8dc3, tools.PaintingTool@568db2f2, tools.PaintingTool@378bf509]
 	 Tool names: [concrete5, concrete1, concrete2, plumbing5, plumbing4, woodwork5, woodwork4, plumbing3, yardwork1, woodwork3, painting3, painting4]
--> Customer Repository at the end of the day:
-	 Count: 6
-	 Customer list: [customers.CustomerCasual@3f99bd52, customers.CustomerBusiness@1c20c684, customers.CustomerBusiness@30f39991, customers.CustomerCasual@3a71f4dd, customers.CustomerCasual@7adf9f5f, customers.CustomerCasual@23fc625e]
 -> Daily Income: 935.0
 
 ------------------------------------------------------------------
@@ -955,9 +901,6 @@ Day: 19
 	 Count: 14
 	 Tool list: [tools.ConcreteTool@681a9515, tools.ConcreteTool@41629346, tools.ConcreteTool@6d311334, tools.PlumbingTool@3d075dc0, tools.PlumbingTool@448139f0, tools.WoodworkTool@7cca494b, tools.WoodworkTool@3b9a45b3, tools.PlumbingTool@7699a589, tools.YardworkTool@58372a00, tools.WoodworkTool@4dd8dc3, tools.PaintingTool@568db2f2, tools.PaintingTool@378bf509, tools.PaintingTool@5fd0d5ae, tools.WoodworkTool@2d98a335]
 	 Tool names: [concrete5, concrete1, concrete2, plumbing5, plumbing4, woodwork5, woodwork4, plumbing3, yardwork1, woodwork3, painting3, painting4, painting5, woodwork2]
--> Customer Repository at the end of the day:
-	 Count: 6
-	 Customer list: [customers.CustomerCasual@3f99bd52, customers.CustomerBusiness@1c20c684, customers.CustomerBusiness@30f39991, customers.CustomerCasual@3a71f4dd, customers.CustomerCasual@7adf9f5f, customers.CustomerCasual@23fc625e]
 -> Daily Income: 0.0
 
 ------------------------------------------------------------------
@@ -1024,9 +967,6 @@ Day: 20
 	 Count: 8
 	 Tool list: [tools.ConcreteTool@41629346, tools.ConcreteTool@6d311334, tools.PlumbingTool@3d075dc0, tools.WoodworkTool@3b9a45b3, tools.PlumbingTool@7699a589, tools.YardworkTool@58372a00, tools.WoodworkTool@4dd8dc3, tools.WoodworkTool@16b98e56]
 	 Tool names: [concrete1, concrete2, plumbing5, woodwork4, plumbing3, yardwork1, woodwork3, woodwork1]
--> Customer Repository at the end of the day:
-	 Count: 4
-	 Customer list: [customers.CustomerCasual@3a71f4dd, customers.CustomerCasual@3f99bd52, customers.CustomerCasual@7adf9f5f, customers.CustomerCasual@23fc625e]
 -> Daily Income: 1033.0
 
 ------------------------------------------------------------------
@@ -1094,9 +1034,6 @@ Day: 21
 	 Count: 7
 	 Tool list: [tools.ConcreteTool@41629346, tools.ConcreteTool@6d311334, tools.PlumbingTool@3d075dc0, tools.WoodworkTool@3b9a45b3, tools.YardworkTool@58372a00, tools.WoodworkTool@4dd8dc3, tools.ConcreteTool@7ef20235]
 	 Tool names: [concrete1, concrete2, plumbing5, woodwork4, yardwork1, woodwork3, concrete4]
--> Customer Repository at the end of the day:
-	 Count: 8
-	 Customer list: [customers.CustomerCasual@3f99bd52, customers.CustomerCasual@7adf9f5f, customers.CustomerCasual@23fc625e, customers.CustomerBusiness@31befd9f, customers.CustomerBusiness@a09ee92, customers.CustomerBusiness@1c20c684, customers.CustomerBusiness@30f39991, customers.CustomerCasual@3a71f4dd]
 -> Daily Income: 65.0
 
 ------------------------------------------------------------------
@@ -1166,9 +1103,6 @@ Day: 22
 	 Count: 9
 	 Tool list: [tools.ConcreteTool@6d311334, tools.PlumbingTool@3d075dc0, tools.WoodworkTool@3b9a45b3, tools.YardworkTool@58372a00, tools.ConcreteTool@7ef20235, tools.WoodworkTool@27d6c5e0, tools.PaintingTool@4f3f5b24, tools.WoodworkTool@15aeb7ab, tools.PlumbingTool@7b23ec81]
 	 Tool names: [concrete2, plumbing5, woodwork4, yardwork1, concrete4, woodwork2, painting5, woodwork1, plumbing3]
--> Customer Repository at the end of the day:
-	 Count: 8
-	 Customer list: [customers.CustomerCasual@3f99bd52, customers.CustomerBusiness@31befd9f, customers.CustomerBusiness@a09ee92, customers.CustomerBusiness@1c20c684, customers.CustomerBusiness@30f39991, customers.CustomerCasual@3a71f4dd, customers.CustomerCasual@23fc625e, customers.CustomerCasual@7adf9f5f]
 -> Daily Income: 223.0
 
 ------------------------------------------------------------------
@@ -1238,9 +1172,6 @@ Day: 23
 	 Count: 10
 	 Tool list: [tools.ConcreteTool@6d311334, tools.PlumbingTool@3d075dc0, tools.WoodworkTool@3b9a45b3, tools.YardworkTool@58372a00, tools.ConcreteTool@7ef20235, tools.WoodworkTool@27d6c5e0, tools.PaintingTool@4f3f5b24, tools.WoodworkTool@15aeb7ab, tools.PlumbingTool@7b23ec81, tools.WoodworkTool@6acbcfc0]
 	 Tool names: [concrete2, plumbing5, woodwork4, yardwork1, concrete4, woodwork2, painting5, woodwork1, plumbing3, woodwork5]
--> Customer Repository at the end of the day:
-	 Count: 8
-	 Customer list: [customers.CustomerCasual@3f99bd52, customers.CustomerBusiness@31befd9f, customers.CustomerBusiness@a09ee92, customers.CustomerBusiness@1c20c684, customers.CustomerBusiness@30f39991, customers.CustomerCasual@3a71f4dd, customers.CustomerCasual@23fc625e, customers.CustomerCasual@7adf9f5f]
 -> Daily Income: 0.0
 
 ------------------------------------------------------------------
@@ -1312,9 +1243,6 @@ Day: 24
 	 Count: 10
 	 Tool list: [tools.ConcreteTool@6d311334, tools.PlumbingTool@3d075dc0, tools.ConcreteTool@7ef20235, tools.WoodworkTool@27d6c5e0, tools.PaintingTool@4f3f5b24, tools.WoodworkTool@15aeb7ab, tools.PlumbingTool@7b23ec81, tools.WoodworkTool@6acbcfc0, tools.WoodworkTool@5f184fc6, tools.ConcreteTool@3feba861]
 	 Tool names: [concrete2, plumbing5, concrete4, woodwork2, painting5, woodwork1, plumbing3, woodwork5, woodwork3, concrete1]
--> Customer Repository at the end of the day:
-	 Count: 8
-	 Customer list: [customers.CustomerBusiness@31befd9f, customers.CustomerBusiness@a09ee92, customers.CustomerBusiness@1c20c684, customers.CustomerBusiness@30f39991, customers.CustomerCasual@3a71f4dd, customers.CustomerCasual@7adf9f5f, customers.CustomerCasual@23fc625e, customers.CustomerCasual@3f99bd52]
 -> Daily Income: 88.0
 
 ------------------------------------------------------------------
@@ -1388,9 +1316,6 @@ Day: 25
 	 Count: 15
 	 Tool list: [tools.ConcreteTool@6d311334, tools.PlumbingTool@3d075dc0, tools.ConcreteTool@7ef20235, tools.WoodworkTool@27d6c5e0, tools.WoodworkTool@15aeb7ab, tools.PlumbingTool@7b23ec81, tools.WoodworkTool@6acbcfc0, tools.WoodworkTool@5f184fc6, tools.ConcreteTool@5b480cf9, tools.PaintingTool@6f496d9f, tools.YardworkTool@723279cf, tools.YardworkTool@10f87f48, tools.YardworkTool@b4c966a, tools.WoodworkTool@2f4d3709, tools.YardworkTool@4e50df2e]
 	 Tool names: [concrete2, plumbing5, concrete4, woodwork2, woodwork1, plumbing3, woodwork5, woodwork3, concrete3, painting1, yardwork4, yardwork3, yardwork2, woodwork4, yardwork1]
--> Customer Repository at the end of the day:
-	 Count: 8
-	 Customer list: [customers.CustomerBusiness@31befd9f, customers.CustomerBusiness@a09ee92, customers.CustomerBusiness@1c20c684, customers.CustomerBusiness@30f39991, customers.CustomerCasual@7adf9f5f, customers.CustomerCasual@3f99bd52, customers.CustomerCasual@3a71f4dd, customers.CustomerCasual@23fc625e]
 -> Daily Income: 134.0
 
 ------------------------------------------------------------------
@@ -1466,9 +1391,6 @@ Day: 26
 	 Count: 11
 	 Tool list: [tools.ConcreteTool@6d311334, tools.PlumbingTool@3d075dc0, tools.WoodworkTool@27d6c5e0, tools.WoodworkTool@15aeb7ab, tools.WoodworkTool@6acbcfc0, tools.WoodworkTool@5f184fc6, tools.ConcreteTool@5b480cf9, tools.YardworkTool@723279cf, tools.YardworkTool@10f87f48, tools.YardworkTool@b4c966a, tools.WoodworkTool@2f4d3709]
 	 Tool names: [concrete2, plumbing5, woodwork2, woodwork1, woodwork5, woodwork3, concrete3, yardwork4, yardwork3, yardwork2, woodwork4]
--> Customer Repository at the end of the day:
-	 Count: 6
-	 Customer list: [customers.CustomerBusiness@a09ee92, customers.CustomerBusiness@1c20c684, customers.CustomerBusiness@30f39991, customers.CustomerCasual@7adf9f5f, customers.CustomerCasual@3f99bd52, customers.CustomerCasual@23fc625e]
 -> Daily Income: 431.0
 
 ------------------------------------------------------------------
@@ -1550,9 +1472,6 @@ Day: 27
 	 Count: 10
 	 Tool list: [tools.ConcreteTool@6d311334, tools.PlumbingTool@3d075dc0, tools.WoodworkTool@15aeb7ab, tools.WoodworkTool@6acbcfc0, tools.YardworkTool@723279cf, tools.YardworkTool@10f87f48, tools.PaintingTool@1d81eb93, tools.PaintingTool@7291c18f, tools.PlumbingTool@34a245ab, tools.YardworkTool@7cc355be]
 	 Tool names: [concrete2, plumbing5, woodwork1, woodwork5, yardwork4, yardwork3, painting3, painting5, plumbing1, yardwork1]
--> Customer Repository at the end of the day:
-	 Count: 5
-	 Customer list: [customers.CustomerBusiness@1c20c684, customers.CustomerCasual@23fc625e, customers.CustomerCasual@3a71f4dd, customers.CustomerCasual@7adf9f5f, customers.CustomerCasual@3f99bd52]
 -> Daily Income: 1325.0
 
 ------------------------------------------------------------------
@@ -1636,9 +1555,6 @@ Day: 28
 	 Count: 9
 	 Tool list: [tools.ConcreteTool@6d311334, tools.WoodworkTool@15aeb7ab, tools.WoodworkTool@6acbcfc0, tools.YardworkTool@723279cf, tools.YardworkTool@10f87f48, tools.PaintingTool@7291c18f, tools.YardworkTool@7cc355be, tools.PlumbingTool@6e8cf4c6, tools.PlumbingTool@12edcd21]
 	 Tool names: [concrete2, woodwork1, woodwork5, yardwork4, yardwork3, painting5, yardwork1, plumbing4, plumbing2]
--> Customer Repository at the end of the day:
-	 Count: 4
-	 Customer list: [customers.CustomerBusiness@1c20c684, customers.CustomerCasual@3a71f4dd, customers.CustomerCasual@3f99bd52, customers.CustomerCasual@23fc625e]
 -> Daily Income: 75.0
 
 ------------------------------------------------------------------
@@ -1726,9 +1642,6 @@ Day: 29
 	 Count: 8
 	 Tool list: [tools.WoodworkTool@15aeb7ab, tools.YardworkTool@10f87f48, tools.PaintingTool@7291c18f, tools.PlumbingTool@6e8cf4c6, tools.PlumbingTool@12edcd21, tools.WoodworkTool@34c45dca, tools.WoodworkTool@52cc8049, tools.PlumbingTool@5b6f7412]
 	 Tool names: [woodwork1, yardwork3, painting5, plumbing4, plumbing2, woodwork2, woodwork4, plumbing1]
--> Customer Repository at the end of the day:
-	 Count: 5
-	 Customer list: [customers.CustomerBusiness@1c20c684, customers.CustomerCasual@23fc625e, customers.CustomerCasual@7adf9f5f, customers.CustomerCasual@3a71f4dd, customers.CustomerCasual@3f99bd52]
 -> Daily Income: 277.0
 
 ------------------------------------------------------------------
@@ -1819,9 +1732,6 @@ Day: 30
 	 Count: 8
 	 Tool list: [tools.WoodworkTool@15aeb7ab, tools.PaintingTool@7291c18f, tools.PlumbingTool@6e8cf4c6, tools.PlumbingTool@12edcd21, tools.WoodworkTool@52cc8049, tools.PlumbingTool@5b6f7412, tools.ConcreteTool@27973e9b, tools.PlumbingTool@312b1dae]
 	 Tool names: [woodwork1, painting5, plumbing4, plumbing2, woodwork4, plumbing1, concrete2, plumbing5]
--> Customer Repository at the end of the day:
-	 Count: 4
-	 Customer list: [customers.CustomerBusiness@1c20c684, customers.CustomerCasual@3f99bd52, customers.CustomerCasual@23fc625e, customers.CustomerCasual@3a71f4dd]
 -> Daily Income: 207.0
 
 ------------------------------------------------------------------
@@ -1913,9 +1823,6 @@ Day: 31
 	 Count: 11
 	 Tool list: [tools.WoodworkTool@15aeb7ab, tools.PaintingTool@7291c18f, tools.PlumbingTool@6e8cf4c6, tools.PlumbingTool@12edcd21, tools.PlumbingTool@5b6f7412, tools.PlumbingTool@312b1dae, tools.YardworkTool@7530d0a, tools.YardworkTool@27bc2616, tools.ConcreteTool@3941a79c, tools.PaintingTool@506e1b77, tools.WoodworkTool@4fca772d]
 	 Tool names: [woodwork1, painting5, plumbing4, plumbing2, plumbing1, plumbing5, yardwork4, yardwork1, concrete3, painting3, woodwork5]
--> Customer Repository at the end of the day:
-	 Count: 5
-	 Customer list: [customers.CustomerBusiness@1c20c684, customers.CustomerCasual@3f99bd52, customers.CustomerCasual@23fc625e, customers.CustomerCasual@7adf9f5f, customers.CustomerCasual@3a71f4dd]
 -> Daily Income: 89.0
 
 ------------------------------------------------------------------
@@ -2007,9 +1914,6 @@ Day: 32
 	 Count: 15
 	 Tool list: [tools.WoodworkTool@15aeb7ab, tools.PaintingTool@7291c18f, tools.PlumbingTool@6e8cf4c6, tools.PlumbingTool@12edcd21, tools.PlumbingTool@5b6f7412, tools.PlumbingTool@312b1dae, tools.YardworkTool@7530d0a, tools.YardworkTool@27bc2616, tools.ConcreteTool@3941a79c, tools.PaintingTool@506e1b77, tools.WoodworkTool@4fca772d, tools.WoodworkTool@9807454, tools.YardworkTool@3d494fbf, tools.WoodworkTool@1ddc4ec2, tools.ConcreteTool@133314b]
 	 Tool names: [woodwork1, painting5, plumbing4, plumbing2, plumbing1, plumbing5, yardwork4, yardwork1, concrete3, painting3, woodwork5, woodwork2, yardwork3, woodwork4, concrete2]
--> Customer Repository at the end of the day:
-	 Count: 5
-	 Customer list: [customers.CustomerBusiness@1c20c684, customers.CustomerCasual@3f99bd52, customers.CustomerCasual@23fc625e, customers.CustomerCasual@7adf9f5f, customers.CustomerCasual@3a71f4dd]
 -> Daily Income: 0.0
 
 ------------------------------------------------------------------
@@ -2103,9 +2007,6 @@ Day: 33
 	 Count: 14
 	 Tool list: [tools.PaintingTool@7291c18f, tools.PlumbingTool@6e8cf4c6, tools.PlumbingTool@12edcd21, tools.PlumbingTool@5b6f7412, tools.YardworkTool@7530d0a, tools.YardworkTool@27bc2616, tools.ConcreteTool@3941a79c, tools.PaintingTool@506e1b77, tools.WoodworkTool@4fca772d, tools.WoodworkTool@9807454, tools.YardworkTool@3d494fbf, tools.ConcreteTool@133314b, tools.ConcreteTool@b1bc7ed, tools.PlumbingTool@7cd84586]
 	 Tool names: [painting5, plumbing4, plumbing2, plumbing1, yardwork4, yardwork1, concrete3, painting3, woodwork5, woodwork2, yardwork3, concrete2, concrete4, plumbing3]
--> Customer Repository at the end of the day:
-	 Count: 4
-	 Customer list: [customers.CustomerCasual@3f99bd52, customers.CustomerCasual@23fc625e, customers.CustomerCasual@3a71f4dd, customers.CustomerCasual@7adf9f5f]
 -> Daily Income: 500.0
 
 ------------------------------------------------------------------
@@ -2302,9 +2203,6 @@ Day: 35
 	 Count: 11
 	 Tool list: [tools.PaintingTool@7291c18f, tools.PlumbingTool@6e8cf4c6, tools.PaintingTool@506e1b77, tools.YardworkTool@3d494fbf, tools.ConcreteTool@133314b, tools.ConcreteTool@30dae81, tools.WoodworkTool@1b2c6ec2, tools.PaintingTool@4edde6e5, tools.YardworkTool@70177ecd, tools.PaintingTool@1e80bfe8, tools.WoodworkTool@66a29884]
 	 Tool names: [painting5, plumbing4, painting3, yardwork3, concrete2, concrete1, woodwork3, painting2, yardwork2, painting4, woodwork4]
--> Customer Repository at the end of the day:
-	 Count: 5
-	 Customer list: [customers.CustomerCasual@23fc625e, customers.CustomerCasual@3a71f4dd, customers.CustomerCasual@7adf9f5f, customers.CustomerBusiness@1c20c684, customers.CustomerCasual@3f99bd52]
 -> Daily Income: 570.0
 
 ------------------------------------------------------------------
