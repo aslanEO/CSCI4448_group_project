@@ -1,41 +1,48 @@
-# 4448/5448 --- OOAD ---- Project 3
+# CSCI4448/5448 --- OOAD ---- Project 3
 
-## Date: 10/18/2019
+Date: 10/18/2019
 
 ## Team Members: 
 
 Yiou Gao, Ling Liu, Ji Zhao
 
-4. Our code is developed and tested on Eclipse and IntelliJ IDEA;
-   We used Junit5 library for JUnit test.
+## Environment
 
-5. The output is in file: project3.out;
+Our code is developed and tested on Eclipse and IntelliJ IDEA.
 
-6. Descriptions:
+We used java version "1.8.0_92" and Junit5 library for JUnit test.
 
-6.1 The code has 4 packages: store, customers, tools, and tests;
+## Output file
 
-6.2 Observer pattern was applied to store and customers;
+The output is in file: project3.out.
+
+## Descriptions
+
+- The code has 4 packages: store, customers, tools, and tests;
+
+- Observer pattern was applied to store and customers;
+	
 	Factory pattern was applied to instantiate tools;
+	
 	Decorator pattern was applied when add options to tools;
 
 
 
-6.3  store 
+- store 
 
-	6.3.1 Main.java is in store package, it implements MyUnitTest
+	- Main.java is in store package, it implements MyUnitTest
 		  first, then implements the StoreSimulation;
 
-	6.3.2 StoreSimulation simulates 35 days and 34 nights rental 
+	- StoreSimulation simulates 35 days and 34 nights rental 
 		  activity in store;
 
-	6.3.3 Each day randomly select customer to rent tool(s) with/
+	- Each day randomly select customer to rent tool(s) with/
 		  without options. Each customer can rent once each day;
 
-	6.3.4 Rent and Return rentals will create a record, daily 
+	- Rent and Return rentals will create a record, daily 
 		  income will also be recored;
 
-	6.3.5 When number of tools inventory less than 3, the store
+	- When number of tools inventory less than 3, the store
 		  will notify all Business customers. If tool inventory
 		  is 0, it will notify all customers.
 
