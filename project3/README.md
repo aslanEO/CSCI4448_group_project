@@ -40,11 +40,11 @@ The output is in file: project3.out.
 		  without options. Each customer can rent once each day;
 
 	- Rent and Return rentals will create a record, daily 
-		  income will also be recored;
+		  income will also be recorded;
 
 	- When number of tools inventory less than 3, the store
-		  will notify all Business customers. If tool inventory
-		  is 0, it will notify all customers.
+		  will notify all Business customers to stop coming. If tool inventory
+		  is 0, it will notify all casual and regular customers to stop coming. If tool inventory increases to more than 0, the store will notify all casual and regular customers to come. If tool inventory increases to more than 2, the store will notify all business customers to come.
 
 		  
 
