@@ -48,78 +48,68 @@ The output is in file: project3.out.
 
 		  
 
-6.4  customers 
+- customers 
 
-	6.4.1 Twelve customers were created: 6 of them are Casual type,
+	- Twelve customers were created: 6 of them are Casual type,
 		  4 of them are Business type, rest of them are Regular type;
 
-	6.4.2 The number of tools and options and nights that customers
+	- The number of tools and options and nights that customers
 		  can rent have restrictions for different type;
 
-	6.4.3 Customers will return tools timely when rent periods end;
+	- Customers will return tools timely when rent periods end;
 
-	6.4.4 When tools inventory less than 3, all Business customers
+	- When tools inventory less than 3, all Business customers
 		  will be notified;
 
-	6.4.5 When tools inventory is 0, all customers will be notified;
+	- When tools inventory is 0, all customers will be notified;
 
 
 
-6.5  tools 
+- tools 
 
-	6.5.1 Different type of tools are created through Factory Pattern;
+	- Different type of tools are created through Factory Pattern;
 
-	6.5.2 Total amount of tools are 24 and they have 5 different 
+	- Total amount of tools are 24 and they have 5 different 
 		  categories: 5 Painting tools, 5 Plumbing tools, 5 Concrete 
 		  tools, 5 Woodwork Tools, and 4 Yardwork tools;
 
-	6.5.3 Three kind of options was created: Accessory kit, Extension
+	- Three kind of options was created: Accessory kit, Extension
 		  cord, and Protective gear. Options are always available. 
 		  Options can be add when customer rents tools;
 
-	6.5.4 When adding options to tools, use Decorator pattern to add;
+	- When adding options to tools, use Decorator pattern to add;
 
-	6.5.5 The price of tools and options:
+	- The price of tools and options:
 	
 
-| tool-price    | Accessory kit | Extension cord | Protective Gear  |
-| ------------- |:-------------:|:-------------: | ----------------:| 
-| Painting-20   | 3             | 5              | 6                |
-| Pluming -10   | 2             | 3              | 2                |
-| Concrete-25   | 4             | 4              | 5                |
-| Woodwork-30   | 5             | 10             | 10               |
-| Yardwork-15   | 6             | 8              | 3                |
+		| tool-price    | Accessory kit | Extension cord | Protective Gear  |
+		| ------------- |:-------------:|:-------------: | ----------------:| 
+		| Painting-20   | 3             | 5              | 6                |
+		| Pluming -10   | 2             | 3              | 2                |
+		| Concrete-25   | 4             | 4              | 5                |
+		| Woodwork-30   | 5             | 10             | 10               |
+		| Yardwork-15   | 6             | 8              | 3                |
 
 
 
 
-6.6  MyUnitTest 
+-  MyUnitTest 
 	
-	6.6.1 There are 10 JUnit tests in MyUnitTest;
+	- There are 10 JUnit tests in MyUnitTest;
 
-	6.6.2 assertEquals, assertTrue, and assertFalse was use
+	- assertEquals, assertTrue, and assertFalse were used;
 
-	6.6.3 Cost of tools, cost of tools and options, and cost of 
+	- Cost of tools, cost of tools and options, and cost of 
 		  different rent nights are tested. In addition, cost for
 		  unknown category tools tested;
 	
-	6.6.4 Number of tools and how many days that different type of 
+	- Number of tools and how many days that different type of 
 		  customers can rent are tested;
 
-	6.6.5 Observer pattern was tested: when tool inventory less 
+	- Observer pattern was tested: when tool inventory less 
 		  than 3, Business customers are notified that they do not
 		  need to come, so all Business customers will be removed
 		  from customer list; when no tools left, all customers are
 		  notified that they do not need to come and all customers
 		  will be removed, therefore the number customer list will
-		  be 0;
-
-
-
-
-
-
-
-
-
-
+		  be 0.
