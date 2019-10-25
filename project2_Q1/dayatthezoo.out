@@ -1,0 +1,170 @@
+zoo keeper wakes up Cathy , Type: Cat , Cat: wake up.
+Anouncer: zoo keeper is waking up 
+zoo keeper wakes up Chloe , Type: Cat , Cat: wake up.
+Anouncer: zoo keeper is waking up 
+zoo keeper wakes up Tom , Type: Tiger , Animal: wake up.
+Anouncer: zoo keeper is waking up 
+zoo keeper wakes up Tea , Type: Tiger , Animal: wake up.
+Anouncer: zoo keeper is waking up 
+zoo keeper wakes up Lexie , Type: Lion , Animal: wake up.
+Anouncer: zoo keeper is waking up 
+zoo keeper wakes up Lemon , Type: Lion , Animal: wake up.
+Anouncer: zoo keeper is waking up 
+zoo keeper wakes up Woody , Type: Wolf , Animal: wake up.
+Anouncer: zoo keeper is waking up 
+zoo keeper wakes up Wendy , Type: Wolf , Animal: wake up.
+Anouncer: zoo keeper is waking up 
+zoo keeper wakes up Danny , Type: Dog , Animal: wake up.
+Anouncer: zoo keeper is waking up 
+zoo keeper wakes up Denver , Type: Dog , Animal: wake up.
+Anouncer: zoo keeper is waking up 
+zoo keeper wakes up Harry , Type: Hippo , Animal: wake up.
+Anouncer: zoo keeper is waking up 
+zoo keeper wakes up Hilton , Type: Hippo , Animal: wake up.
+Anouncer: zoo keeper is waking up 
+zoo keeper wakes up Ella , Type: Elephant , Animal: wake up.
+Anouncer: zoo keeper is waking up 
+zoo keeper wakes up Emma , Type: Elephant , Animal: wake up.
+Anouncer: zoo keeper is waking up 
+zoo keeper wakes up Ray , Type: Rhino , Animal: wake up.
+Anouncer: zoo keeper is waking up 
+zoo keeper wakes up Roosevelt , Type: Rhino , Animal: wake up.
+Anouncer: zoo keeper is waking up 
+
+
+zoo keeper roll call Cathy , Type: Cat
+cat make Softer Noise
+Anouncer: zoo keeper is rolling call Roosevelt
+zoo keeper roll call Chloe , Type: Cat
+cat make Softer Noise
+Anouncer: zoo keeper is rolling call Roosevelt
+zoo keeper roll call Tom , Type: Tiger , Tiger make Noise.
+Anouncer: zoo keeper is rolling call Roosevelt
+zoo keeper roll call Tea , Type: Tiger , Tiger make Noise.
+Anouncer: zoo keeper is rolling call Roosevelt
+zoo keeper roll call Lexie , Type: Lion , Lion make Noise.
+Anouncer: zoo keeper is rolling call Roosevelt
+zoo keeper roll call Lemon , Type: Lion , Lion make Noise.
+Anouncer: zoo keeper is rolling call Roosevelt
+zoo keeper roll call Woody , Type: Wolf , Canine make noise
+Anouncer: zoo keeper is rolling call Roosevelt
+zoo keeper roll call Wendy , Type: Wolf , Canine make noise
+Anouncer: zoo keeper is rolling call Roosevelt
+zoo keeper roll call Danny , Type: Dog , Canine make noise
+Anouncer: zoo keeper is rolling call Roosevelt
+zoo keeper roll call Denver , Type: Dog , Canine make noise
+Anouncer: zoo keeper is rolling call Roosevelt
+zoo keeper roll call Harry , Type: Hippo , Pachyderm make noise
+Anouncer: zoo keeper is rolling call Roosevelt
+zoo keeper roll call Hilton , Type: Hippo , Pachyderm make noise
+Anouncer: zoo keeper is rolling call Roosevelt
+zoo keeper roll call Ella , Type: Elephant , Pachyderm make noise
+Anouncer: zoo keeper is rolling call Roosevelt
+zoo keeper roll call Emma , Type: Elephant , Pachyderm make noise
+Anouncer: zoo keeper is rolling call Roosevelt
+zoo keeper roll call Ray , Type: Rhino , Pachyderm make noise
+Anouncer: zoo keeper is rolling call Roosevelt
+zoo keeper roll call Roosevelt , Type: Rhino , Pachyderm make noise
+Anouncer: zoo keeper is rolling call Roosevelt
+
+
+zoo keeper feeds Cathy , Type: Cat , Cat drinks water.
+Anouncer: zoo keeper is feeding Cathy
+zoo keeper feeds Chloe , Type: Cat , Cat eats fish.
+Anouncer: zoo keeper is feeding Chloe
+zoo keeper feeds Tom , Type: Tiger , Feline: eat.
+Anouncer: zoo keeper is feeding Tom
+zoo keeper feeds Tea , Type: Tiger , Feline: eat.
+Anouncer: zoo keeper is feeding Tea
+zoo keeper feeds Lexie , Type: Lion , Feline: eat.
+Anouncer: zoo keeper is feeding Lexie
+zoo keeper feeds Lemon , Type: Lion , Feline: eat.
+Anouncer: zoo keeper is feeding Lemon
+zoo keeper feeds Woody , Type: Wolf , Animal: eat.
+Anouncer: zoo keeper is feeding Woody
+zoo keeper feeds Wendy , Type: Wolf , Animal: eat.
+Anouncer: zoo keeper is feeding Wendy
+zoo keeper feeds Danny , Type: Dog , Animal: eat.
+Anouncer: zoo keeper is feeding Danny
+zoo keeper feeds Denver , Type: Dog , Animal: eat.
+Anouncer: zoo keeper is feeding Denver
+zoo keeper feeds Harry , Type: Hippo , Animal: eat.
+Anouncer: zoo keeper is feeding Harry
+zoo keeper feeds Hilton , Type: Hippo , Animal: eat.
+Anouncer: zoo keeper is feeding Hilton
+zoo keeper feeds Ella , Type: Elephant , Animal: eat.
+Anouncer: zoo keeper is feeding Ella
+zoo keeper feeds Emma , Type: Elephant , Animal: eat.
+Anouncer: zoo keeper is feeding Emma
+zoo keeper feeds Ray , Type: Rhino , Animal: eat.
+Anouncer: zoo keeper is feeding Ray
+zoo keeper feeds Roosevelt , Type: Rhino , Animal: eat.
+Anouncer: zoo keeper is feeding Roosevelt
+
+
+zoo keeper exercises Cathy , Type: Cat , Feline: roam.
+Anouncer: zoo keeper is exercising Cathy
+zoo keeper exercises Chloe , Type: Cat , Feline: roam.
+Anouncer: zoo keeper is exercising Chloe
+zoo keeper exercises Tom , Type: Tiger , Feline: roam.
+Anouncer: zoo keeper is exercising Tom
+zoo keeper exercises Tea , Type: Tiger , Feline: roam.
+Anouncer: zoo keeper is exercising Tea
+zoo keeper exercises Lexie , Type: Lion , Feline: roam.
+Anouncer: zoo keeper is exercising Lexie
+zoo keeper exercises Lemon , Type: Lion , Feline: roam.
+Anouncer: zoo keeper is exercising Lemon
+zoo keeper exercises Woody , Type: Wolf , Animal: roam.
+Anouncer: zoo keeper is exercising Woody
+zoo keeper exercises Wendy , Type: Wolf , Animal: roam.
+Anouncer: zoo keeper is exercising Wendy
+zoo keeper exercises Danny , Type: Dog , Animal: roam.
+Anouncer: zoo keeper is exercising Danny
+zoo keeper exercises Denver , Type: Dog , Animal: roam.
+Anouncer: zoo keeper is exercising Denver
+zoo keeper exercises Harry , Type: Hippo , Animal: roam.
+Anouncer: zoo keeper is exercising Harry
+zoo keeper exercises Hilton , Type: Hippo , Animal: roam.
+Anouncer: zoo keeper is exercising Hilton
+zoo keeper exercises Ella , Type: Elephant , Animal: roam.
+Anouncer: zoo keeper is exercising Ella
+zoo keeper exercises Emma , Type: Elephant , Animal: roam.
+Anouncer: zoo keeper is exercising Emma
+zoo keeper exercises Ray , Type: Rhino , Animal: roam.
+Anouncer: zoo keeper is exercising Ray
+zoo keeper exercises Roosevelt , Type: Rhino , Animal: roam.
+Anouncer: zoo keeper is exercising Roosevelt
+
+
+zoo keeper shuts down zoo
+Anouncer: zoo keeper is shutting down zoo
+zoo keeper shuts down zoo
+Anouncer: zoo keeper is shutting down zoo
+zoo keeper shuts down zoo
+Anouncer: zoo keeper is shutting down zoo
+zoo keeper shuts down zoo
+Anouncer: zoo keeper is shutting down zoo
+zoo keeper shuts down zoo
+Anouncer: zoo keeper is shutting down zoo
+zoo keeper shuts down zoo
+Anouncer: zoo keeper is shutting down zoo
+zoo keeper shuts down zoo
+Anouncer: zoo keeper is shutting down zoo
+zoo keeper shuts down zoo
+Anouncer: zoo keeper is shutting down zoo
+zoo keeper shuts down zoo
+Anouncer: zoo keeper is shutting down zoo
+zoo keeper shuts down zoo
+Anouncer: zoo keeper is shutting down zoo
+zoo keeper shuts down zoo
+Anouncer: zoo keeper is shutting down zoo
+zoo keeper shuts down zoo
+Anouncer: zoo keeper is shutting down zoo
+zoo keeper shuts down zoo
+Anouncer: zoo keeper is shutting down zoo
+zoo keeper shuts down zoo
+Anouncer: zoo keeper is shutting down zoo
+zoo keeper shuts down zoo
+Anouncer: zoo keeper is shutting down zoo
+zoo keeper shuts down zoo
+Anouncer: zoo keeper is shutting down zoo
