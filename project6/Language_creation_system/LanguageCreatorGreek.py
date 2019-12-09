@@ -13,7 +13,7 @@ class LanguageCreatorGreek(LanguageCreator):
 
     def createData(self, sounds, rules):
         """
-
+        :type sounds: str
         :type rules: str
         """
         dataDict = {}
