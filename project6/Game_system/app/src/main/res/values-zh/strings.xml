@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">乐学</string>
+
+    <!--log in activity-->
+    <string name="login">用户名 </string>
+    <string name="login_info">输入你的用户名</string>
+    <string name="password">密 码 </string>
+    <string name="enter_pwd">输入你的密码</string>
+    <string name="button_login">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Log In&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
+    <string name="button_signup">注册</string>
+
+
+    <!--sign up activity-->
+    <string name="register">注册</string>
+    <string name="register_name">Name</string>
+    <string name="enter_register_name">创建用户名(必填)</string>
+    <string name="register_email">邮箱</string>
+    <string name="enter_register_email">邮箱(必填)</string>
+    <string name="register_pwd">密码</string>
+    <string name="enter_register_pwd">创建密码(必填)</string>
+    <string name="register_failed">用户名已存在，请重新选择</string>
+    <string name="register_succeed">注册成功!</string>
+
+
+    <string name="back">返回主菜单</string>
+    <string name="quiz">测试</string>
+    <string-array name="learning_page">
+        <item>从下列两项中选择课程</item>
+        <item>第一课</item>
+        <item>第二课</item>
+    </string-array>
+
+    <string name="total">总题数:</string>
+    <string name="correct">正确个数:</string>
+    <string name="wrong">错题个数:</string>
+</resources>

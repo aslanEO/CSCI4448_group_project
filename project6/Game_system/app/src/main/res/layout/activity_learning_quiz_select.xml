@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LearningAndPageSelectionActivity"
+    android:orientation="vertical">
+    <ImageView
+        android:layout_width="806dp"
+        android:layout_height="268dp"
+        android:layout_gravity="center"
+        android:src="@drawable/ooad_logo_v1"
+        />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="64dp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:background="@android:color/holo_green_light"
+        android:layout_marginLeft="@dimen/marginSize64"
+        android:layout_marginRight="@dimen/marginSize64"
+        android:padding="@dimen/marginSize16">
+    </Spinner>
+
+    <Button
+        android:id="@+id/goToQuiz"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="64dp"
+        android:text="@string/quiz"
+        android:textAllCaps="false"
+        android:background="@android:color/holo_green_light"
+        android:layout_marginLeft="@dimen/marginSize64"
+        android:layout_marginRight="@dimen/marginSize64"
+        android:padding="@dimen/marginSize16"></Button>
+
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

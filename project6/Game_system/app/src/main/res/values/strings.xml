@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Happy Learning</string>
+
+    <!--log in activity-->
+    <string name="login">Username </string>
+    <string name="login_info">Enter your username</string>
+    <string name="password">Password </string>
+    <string name="enter_pwd">Enter Your Password</string>
+    <string name="button_login">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Log In&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
+    <string name="button_signup">Sign Up</string>
+
+
+    <!--sign up activity-->
+    <string name="register">Register</string>
+    <string name="register_name">Name</string>
+    <string name="enter_register_name">Create username (Required)</string>
+    <string name="register_email">Email</string>
+    <string name="enter_register_email">Your email (Required)</string>
+    <string name="register_pwd">Password</string>
+    <string name="enter_register_pwd">Create password (Required)</string>
+    <string name="register_failed">User name already exists. Please choose a new name.</string>
+    <string name="register_succeed">Sign up Succeed!</string>
+
+    <string name="back">Back To Main</string>
+    <string name="quiz">Quiz</string>
+    <string-array name="learning_page">
+        <item>Choose Lesson from below</item>
+        <item>Lesson One</item>
+        <item>Lesson Two</item>
+    </string-array>
+
+
+    <string name="total">Total Questions:</string>
+    <string name="correct">Correct Num:</string>
+    <string name="wrong">Wrong Num:</string>
+</resources>

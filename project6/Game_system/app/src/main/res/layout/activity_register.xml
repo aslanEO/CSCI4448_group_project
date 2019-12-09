@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".RegisterActivity">
+
+
+    <TextView
+        android:id="@+id/textViewRegisterTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_signup"
+        android:textColor="#000"
+        android:textSize="@dimen/textSize32"
+        android:textStyle="italic|bold"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/marginSize16"/>
+
+    <View
+        android:id="@+id/divider"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/marginSize5"
+        android:background="@android:color/black"
+        android:layout_marginTop="@dimen/marginSize16"/>
+
+    <ScrollView
+        android:id="@+id/scrollViewRegister"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableLayout
+                android:id="@+id/signUpTableLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center">
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:id="@+id/textViewRegisterName"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="@dimen/marginSize4"
+                        android:padding="@dimen/marginSize4"
+                        android:textSize="@dimen/textSize20"
+                        android:text="@string/register_name"
+                        android:textColor="#000"/>
+
+                    <EditText
+                        android:id="@+id/editTextRegisterName"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint= "@string/enter_register_name"
+                        android:textColor="#000"
+                        android:inputType="textPersonName"/>
+                </TableRow>
+
+                <TableRow>
+                    <TextView
+                        android:id="@+id/textViewRegisterEmail"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="@dimen/marginSize4"
+                        android:padding="@dimen/marginSize4"
+                        android:text="@string/register_email"
+                        android:textSize="@dimen/textSize20"
+                        android:textColor="#000"/>
+
+                    <EditText
+                        android:id="@+id/editTextRegisterEmail"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint= "@string/enter_register_email"
+                        android:textColor="#000"
+                        android:inputType="textEmailAddress"/>
+                </TableRow>
+
+
+                <TableRow>
+                    <TextView
+                        android:id="@+id/textViewRegisterPwd"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/marginSize4"
+                        android:text="@string/register_pwd"
+                        android:textSize="@dimen/textSize20"
+                        android:textColor="#000"/>
+
+                    <EditText
+                        android:id="@+id/editTextRegisterPwd"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint= "@string/enter_register_pwd"
+                        android:textColor="#000"
+                        android:inputType="textPassword"/>
+                </TableRow>
+
+                <TableRow>
+                    <Button
+                        android:id="@+id/buttonRegisterPageSignUp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:layout_marginTop="@dimen/marginSize16"
+                        android:text="@string/button_signup"
+                        android:textSize="@dimen/textSize20"
+                        android:background="@android:color/holo_green_light"/>
+                </TableRow>
+
+            </TableLayout>
+
+
+
+        </HorizontalScrollView>
+
+    </ScrollView>
+
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

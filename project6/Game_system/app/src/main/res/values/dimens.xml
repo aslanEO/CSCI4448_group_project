@@ -1,0 +1,18 @@
+<resources>
+    <dimen name="marginSize4">4dp</dimen>
+    <dimen name="marginSize5">5dp</dimen>
+    <dimen name="marginSize16">16dp</dimen>
+    <dimen name="marginSize32">32dp</dimen>
+    <dimen name="marginSize36">36dp</dimen>
+    <dimen name="marginSize40">40dp</dimen>
+    <dimen name="marginSize48">48dp</dimen>
+    <dimen name="marginSize64">64dp</dimen>
+    <dimen name="marginSize80">80dp</dimen>
+    <dimen name="marginSize96">96dp</dimen>
+    <dimen name="textSize16">16sp</dimen>
+    <dimen name="textSize20">20sp</dimen>
+    <dimen name="textSize24">24sp</dimen>
+    <dimen name="textSize28">28sp</dimen>
+    <dimen name="textSize32">32sp</dimen>
+    <dimen name="textSize64">64sp</dimen>
+</resources>
