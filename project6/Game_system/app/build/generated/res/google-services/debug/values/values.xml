@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1088738874965-4h0oj6cforcaldiidgnk191hr7fsp4su.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://happylearning-a35d4.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1088738874965</string>
+    <string name="google_api_key" translatable="false">AIzaSyD_jEOSXtHlylgbqrBw_QVzZeOvb7Bt2VE</string>
+    <string name="google_app_id" translatable="false">1:1088738874965:android:89cebe7a01849076a366dc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD_jEOSXtHlylgbqrBw_QVzZeOvb7Bt2VE</string>
+    <string name="google_storage_bucket" translatable="false">happylearning-a35d4.appspot.com</string>
+    <string name="project_id" translatable="false">happylearning-a35d4</string>
+</resources>
