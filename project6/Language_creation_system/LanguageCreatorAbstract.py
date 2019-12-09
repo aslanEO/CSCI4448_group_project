@@ -21,6 +21,10 @@ class LanguageCreator(ABC):
         return language, dataDict
 
     def storeData(self, sounds, rules):
+        """
+        :type sounds: str
+        :type rs: str
+        """
         language, dataDict = self.createData(sounds, rules)
         outpath = "generatedData/" + language.name + "/"
         for k, v in dataDict.items():
