@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1088738874965",
+    "firebase_url": "https://happylearning-a35d4.firebaseio.com",
+    "project_id": "happylearning-a35d4",
+    "storage_bucket": "happylearning-a35d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088738874965:android:89cebe7a01849076a366dc",
+        "android_client_info": {
+          "package_name": "com.example.happylearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088738874965-s3ihm1so0msu2u8ovlesknf41nip4jnj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.happylearning",
+            "certificate_hash": "4ef1849edf9b93eed22d92332a1a2405596e6612"
+          }
+        },
+        {
+          "client_id": "1088738874965-4h0oj6cforcaldiidgnk191hr7fsp4su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_jEOSXtHlylgbqrBw_QVzZeOvb7Bt2VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088738874965-4h0oj6cforcaldiidgnk191hr7fsp4su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
