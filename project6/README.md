@@ -48,5 +48,10 @@ Ji Zhao, Yiou Gao, Ling Liu
 
   Open *Game_system/* with Android Studio. Then you can run the Happy Learning game system from there.
 
+## Note
+
+Our project includes two parts: Language Creation system and Game system.
+
+The Languages Creation system is used to generate audio data that the Game system needs.
 
 
