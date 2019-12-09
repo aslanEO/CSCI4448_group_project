@@ -2,7 +2,7 @@
 
 Date: 12/09/2019
 
-## Team Members: 
+## Team Members 
 
 Ji Zhao, Yiou Gao, Ling Liu
 
