@@ -1,7 +1,7 @@
 from LanguageAbstract import *
 
 """
-This module defines the concrete subclass. 
+This module defines the concrete subclass, i.e. the ConcreteProduct class in the Factory pattern. 
 The language defined here is alien.
 """
 
