@@ -54,4 +54,6 @@ Our project includes two parts: Language Creation system and Game system.
 
 The Languages Creation system is used to generate audio data that the Game system needs.
 
+Happy Learning happens with the Game system.
+
 
