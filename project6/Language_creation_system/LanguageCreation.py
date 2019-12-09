@@ -1,6 +1,6 @@
 """
 This is the main code to run the language creation system.
-You can create new languages and specify what combined audio you'd like to generate in this part.
+You can specify what combined audio for which language you'd like to generate in this part.
 Newly created audio files will be stored in ./generatedData/LANGUAGENAME/ as IPASYMBOLS.wav.
 """
 
