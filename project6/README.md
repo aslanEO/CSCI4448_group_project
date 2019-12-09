@@ -16,7 +16,7 @@ Ji Zhao, Yiou Gao, Ling Liu
 
 - Game system:
 
-  The game system is developed and tested with Java 13.0.1, Android Studio 3.5.2, Android SDK Tools 26.1.1, Android Platform Version API 29: Android 10.0 (Q) revision 3.
+  The game system is developed and tested with Java 13.0.1, Android Studio 3.5.2, Android SDK Tools 26.1.1, Android Platform Version API 29: Android 10.0 (Q) revision 3. You need to install Android Studio and SDK to run the system.
   
   Firebase is used for data storage.
 
@@ -45,6 +45,8 @@ Ji Zhao, Yiou Gao, Ling Liu
   After this, audio files will be created as specified in LanguageCreation.py. Created data will be stored in *./generatedData/*. 
 
 - Game system:
+
+  Open *Game_system* with Android Studio. Then you can run the Happy Learning game system from there.
 
 
 
