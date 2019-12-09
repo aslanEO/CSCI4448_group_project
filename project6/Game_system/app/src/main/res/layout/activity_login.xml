@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".LoginActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="806dp"
+        android:layout_height="268dp"
+        android:contentDescription="TODO"
+        android:src="@drawable/ooad_logo_v1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ScrollView
+        android:id="@+id/scrollViewLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/imageView">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/loginConstraint2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/marginSize32">
+
+            <TextView
+                android:id="@+id/textViewLogIn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/login"
+                android:textAllCaps="false"
+                android:textColor="#000"
+                android:textSize="@dimen/textSize24"
+                app:layout_constraintLeft_toLeftOf="@id/loginConstraint2"
+                app:layout_constraintTop_toTopOf="@+id/loginConstraint2" />
+
+            <EditText
+                android:id="@+id/editTextLogInPageName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/login_info"
+                android:textColor="#000"
+                android:textColorHint="#000"
+                android:textSize="@dimen/textSize20"
+                app:layout_constraintBaseline_toBaselineOf="@id/textViewLogIn"
+                app:layout_constraintLeft_toRightOf="@id/textViewLogIn"
+                android:autofillHints="" />
+
+            <TextView
+                android:id="@+id/textViewPwd"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/password"
+                android:textColor="#000"
+                android:textSize="@dimen/textSize24"
+                app:layout_constraintLeft_toLeftOf="@id/textViewLogIn"
+                app:layout_constraintTop_toBottomOf="@id/textViewLogIn" />
+
+            <EditText
+                android:id="@+id/editTextLoginPagePwd"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/marginSize16"
+                android:hint="@string/enter_pwd"
+                android:textColor="#000"
+                android:textColorHint="#000"
+                android:textSize="@dimen/textSize20"
+                app:layout_constraintBaseline_toBaselineOf="@id/textViewPwd"
+                app:layout_constraintLeft_toRightOf="@id/textViewPwd"
+                android:autofillHints="" />
+
+            <Button
+                android:id="@+id/buttonLogIn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/marginSize96"
+                android:background="@android:color/holo_orange_dark"
+                android:text="@string/button_login"
+                android:textAllCaps="false"
+                android:textSize="@dimen/textSize28"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/textViewPwd" />
+
+            <Button
+                android:id="@+id/buttonLoginPageSignUp"
+                style="@style/Base.Widget.AppCompat.Button.Borderless"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:text="@string/button_signup"
+                android:textAllCaps="false"
+                android:textColor="#000"
+                android:textSize="@dimen/textSize16"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/buttonLogIn" />
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+    <Button
+        android:id="@+id/loginAsGuest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Go to Main Page as Guest"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent">
+    </Button>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
