@@ -46,7 +46,7 @@ Ji Zhao, Yiou Gao, Ling Liu
 
 - Game system:
 
-  Open *Game_system* with Android Studio. Then you can run the Happy Learning game system from there.
+  Open *Game_system/* with Android Studio. Then you can run the Happy Learning game system from there.
 
 
 
