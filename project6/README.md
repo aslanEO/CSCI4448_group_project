@@ -22,25 +22,25 @@ Ji Zhao, Yiou Gao, Ling Liu
 
 ## PDF file
 
-project6_FinalReport.pdf is the required PDF file.
+*project6_FinalReport.pdf* is the required PDF file.
 
 ## How to run the code
 
 #### Download the repository:
 
-$ git clone https://github.com/aslanEO/CSCI4448_group_project.git
+*$ git clone https://github.com/aslanEO/CSCI4448_group_project.git*
 
 #### Go to the directory for this project:
 
-$ cd CSCI4448_group_project/project6/
+*$ cd CSCI4448_group_project/project6/*
 
 #### After you are in the directory CSCI4448_group_project/project6/,
 
 - Language creation system: 
 
-  $ cd Language_creation_system/
+  *$ cd Language_creation_system/*
   
-  $ python3 LanguageCreation.py
+  *$ python3 LanguageCreation.py*
   
   After this, audio files will be created as specified in LanguageCreation.py. Created data will be stored in *./generatedData/*. 
 
