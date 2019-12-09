@@ -1,7 +1,7 @@
 from abc import ABC, abstractmethod
 
 """
-This module defines the abstarct superclass of Language
+This module defines the abstarct superclass of Language, i.e. the abstract Product class in the Factory pattern.  
 """
 
 class Language(ABC):
