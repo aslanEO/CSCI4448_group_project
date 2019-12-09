@@ -1,6 +1,4 @@
-# CSCI4448/5448 --- OOAD ---- Project 6
-
-# Happy Learning
+# CSCI4448/5448 --- OOAD ---- Project 6: Happy Learning
 
 Date: 12/09/2019
 
